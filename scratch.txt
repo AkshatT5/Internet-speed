@@ -1,0 +1,10 @@
+/usr/local/bin/node /Users/akshattiwari/WebstormProjects/untitled24/untitled19/dsa.js
+
+Process finished with exit code 0
+
+
+
+
+
+
+
