@@ -4,7 +4,6 @@ let image = new Image();
 let bitOutput = document.getElementById("bits");
 let kboutput = document.getElementById("kbs");
 let mboutput = document.getElementById("mbs");
-
 let imageLink = "https://source.unsplash.com/random?topics=nature";
 image.onload = async function () {
     endTime = new Date().getTime();
